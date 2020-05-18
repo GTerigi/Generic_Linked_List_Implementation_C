@@ -1,7 +1,7 @@
 # Generic Linked List Implementation C
 
 ## Description
-This is a simple implementation of a C style Linked List. Nothing fancy, it store generic data type, so everything convertible to **void* **
+This is a simple implementation of a C style Linked List. Nothing fancy, it store generic data type, so everything convertible to void*
 
 ## Documentation
 
