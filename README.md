@@ -36,7 +36,7 @@ bool LL_AddOrder(LinkedList *list, void *data, int (*comp)(void *, void *));
 LL_AddOrder(List, (void *)(&SomeInt), YourSortingFunction);
 ```
 Add the new Data in the list following the order described in the function passed as argument.
-**Return ** * *true* * if the data is correctly inserted in the list, * *false* * otherwise
+**Return**  _true_ if the data is correctly inserted in the list, _false_ otherwise
 
 ### Removing From the List
 There are 2 ways to remove an element from the list.
